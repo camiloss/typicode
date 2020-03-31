@@ -1,14 +1,101 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "claims":[
+    {
+        "ID": "C8A8CE55:EDD7F511-6446-43CC-8086-6173960CE00C",
+        "CLAIM_NO": "XYZ00880",
+        "DIST_CD": "DIST003",
+        "DIST_NAME": "DIST003",
+        "CLAIM_TYPE": "C",
+        "CLAIM_DT": "2020-03-31T00:00:00.000Z",
+        "CLAIM_AMOUNT": "31.000000",
+        "APPROVER_NAME": "",
+        "CLAIM_STATUS": "U",
+        "EMAIL_STATUS": null
+    },
+    {
+        "ID": "C8A8CE55:C73E7E2F-7890-4479-A282-C2C6F1CB4EE0",
+        "CLAIM_NO": "XYZ00879",
+        "DIST_CD": "DIST003",
+        "DIST_NAME": "DIST003",
+        "CLAIM_TYPE": "D",
+        "CLAIM_DT": "2020-03-31T00:00:00.000Z",
+        "CLAIM_AMOUNT": "11.000000",
+        "APPROVER_NAME": "",
+        "CLAIM_STATUS": "C",
+        "EMAIL_STATUS": null
+    },
+    {
+        "ID": "C8A8CE55:18C219A9-9024-45FB-9D61-2ACFD0FDDD49",
+        "CLAIM_NO": "XYZ00878",
+        "DIST_CD": "DIST003",
+        "DIST_NAME": "DIST003",
+        "CLAIM_TYPE": "D",
+        "CLAIM_DT": "2020-03-30T00:00:00.000Z",
+        "CLAIM_AMOUNT": "50.000000",
+        "APPROVER_NAME": "",
+        "CLAIM_STATUS": "U",
+        "EMAIL_STATUS": null
+    },
+    {
+        "ID": "C8A8CE55:27C5CD9B-90D8-4CB4-88D6-3B3A4F2F3C67",
+        "CLAIM_NO": "XYZ00877",
+        "DIST_CD": "DIST003",
+        "DIST_NAME": "DIST003",
+        "CLAIM_TYPE": "D",
+        "CLAIM_DT": "2020-03-30T00:00:00.000Z",
+        "CLAIM_AMOUNT": "50.000000",
+        "APPROVER_NAME": "",
+        "CLAIM_STATUS": "C",
+        "EMAIL_STATUS": null
+    },
+    {
+        "ID": "C8A8CE55:6B1B2819-E248-411C-A7B5-53164481B70A",
+        "CLAIM_NO": "XYZ00876",
+        "DIST_CD": "DIST003",
+        "DIST_NAME": "DIST003",
+        "CLAIM_TYPE": "C",
+        "CLAIM_DT": "2020-03-30T00:00:00.000Z",
+        "CLAIM_AMOUNT": "42.000000",
+        "APPROVER_NAME": "",
+        "CLAIM_STATUS": "D",
+        "EMAIL_STATUS": null
+    },
+    {
+        "ID": "C8A8CE55:2D85FC8C-95CE-40A3-8251-2A0C26457A93",
+        "CLAIM_NO": "XYZ00875",
+        "DIST_CD": "DIST003",
+        "DIST_NAME": "DIST003",
+        "CLAIM_TYPE": "C",
+        "CLAIM_DT": "2020-03-30T00:00:00.000Z",
+        "CLAIM_AMOUNT": "64.000000",
+        "APPROVER_NAME": "",
+        "CLAIM_STATUS": "D",
+        "EMAIL_STATUS": null
+    },
+    {
+        "ID": "C8A8CE55:326FD952-6108-4AFB-8C63-3A979EEA438F",
+        "CLAIM_NO": "XYZ00874",
+        "DIST_CD": "DIST003",
+        "DIST_NAME": "DIST003",
+        "CLAIM_TYPE": "C",
+        "CLAIM_DT": "2020-03-30T00:00:00.000Z",
+        "CLAIM_AMOUNT": "272.800000",
+        "APPROVER_NAME": "",
+        "CLAIM_STATUS": "D",
+        "EMAIL_STATUS": null
+    },
+    {
+        "ID": "C8A8CE55:3CDB8365-562C-4339-9767-C923FD40CB74",
+        "CLAIM_NO": "XYZ00873",
+        "DIST_CD": "DIST003",
+        "DIST_NAME": "DIST003",
+        "CLAIM_TYPE": "D",
+        "CLAIM_DT": "2020-03-30T00:00:00.000Z",
+        "CLAIM_AMOUNT": "50.000000",
+        "APPROVER_NAME": "",
+        "CLAIM_STATUS": "C",
+        "EMAIL_STATUS": null
+    }
+    
+]
 }
